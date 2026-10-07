@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Alam</h1>
-<h3 align="center">A passionate fullstack developer from India. I have 2+ years of experience in MERN development and always looking for something to contribute to on Github.</h3>
+<h3 align="center">A passionate fullstack developer from India. I have 3+ years of experience in MERN development and always looking for something to contribute to on Github.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aannaassalam&label=Profile%20views&color=0e75b6&style=flat" alt="aannaassalam" /> </p>
 
